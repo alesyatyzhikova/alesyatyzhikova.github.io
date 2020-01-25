@@ -1,8 +1,7 @@
-# [Ссылка на проект] https://alesyatyzhikova.github.io/validation/
-
 Валидация в разметке с помощью регулярных выражений
+==============
 
----
+[Ссылка на проект] https://alesyatyzhikova.github.io/validation/
 
 версия проекта **v0.0.1**
-
+---
